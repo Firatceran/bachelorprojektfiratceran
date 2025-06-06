@@ -2,11 +2,11 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-simnum = 5 #simulates paths
+simnum = 5 # paths
 sigma = 0.2
 mu = 0.06
 N = 50
-T = 1 #Maturity time in years
+T = 1 #Maturity 
 S0 = 36
 K = 44
 alpha=0.5
