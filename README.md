@@ -1,0 +1,2 @@
+# bachelorprojektfiratceran
+Bachelorprojekt2025-Firat
