@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Funktion-antitetiske
+# Funktion-antihetiske
 # De anvendte ligninger er taget direkte fra afsnittet om Black-Scholes :)
 def generate_paths_antithetic(num_paths, volatility, drift, steps_per_year, years, initial_price):
     dt = 1 / steps_per_year
